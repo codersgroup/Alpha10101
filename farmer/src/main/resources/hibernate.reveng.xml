@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="DayBase" match-name="ACCOUNT_DETAILS"/>
+  <table-filter match-catalog="DayBase" match-name="ADDRESS_FARMER"/>
+  <table-filter match-catalog="DayBase" match-name="BANK_DETAILS"/>
+  <table-filter match-catalog="DayBase" match-name="EDUCATION_DETAILS"/>
+  <table-filter match-catalog="DayBase" match-name="FARMERS_DETAILS"/>
+  <table-filter match-catalog="DayBase" match-name="LAND_DETAILS"/>
+  <table-filter match-catalog="DayBase" match-name="PINCODE_DETAILS"/>
+</hibernate-reverse-engineering>
